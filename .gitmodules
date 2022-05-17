@@ -1,0 +1,12 @@
+[submodule "docker-postgres-multiple"]
+	path = docker-postgres-multiple
+	url = https://github.com/mrts/docker-postgresql-multiple-databases.git
+[submodule "billing-service"]
+	path = billing-service
+	url = https://github.com/adedotunalausa/b-billing-service.git
+[submodule "customer-service"]
+	path = customer-service
+	url = https://github.com/adedotunalausa/b-customer-service.git
+[submodule "billing-worker-service"]
+	path = billing-worker-service
+	url = https://github.com/adedotunalausa/b-billing-worker-service.git
